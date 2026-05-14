@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Wachoox.github.io/readme-lev2aa/sitemap.xml
